@@ -16,6 +16,10 @@ table {
   background: #dad8d8;
 }
 
+.even { 
+    background-color: rgb(157, 168, 207); 
+}
+
 .header-row {
     background: #34495E;
     color: #fff
